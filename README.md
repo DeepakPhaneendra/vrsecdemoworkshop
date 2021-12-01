@@ -2,7 +2,17 @@
 # deepak
 ## phaneendra
 ### yadavalli
-
+* MumbaiIndians
+  * rohit
+  * bumrah
+  * sky
+  * polly
+ 
+1. RCB
+    1. Virat
+    2. maxi
+    3. siraj
+  
 
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -15,3 +25,9 @@ Sno|Player|jersey no
 2|Rohit|45
 3|Pant|17
 4|Bumrah|93
+ >Precious players in Bcci
+
+~~Dhoni the most Overratted player in the cricket hiatory~~
+>creditStealer
+
+@HemaSri1729 hi buddy!!

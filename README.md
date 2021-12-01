@@ -27,7 +27,7 @@ Sno|Player|jersey no
 4|Bumrah|93
  >Precious players in Bcci
  
- pant 💙
+ pant 💙 🔥
 
 ~~Dhoni the most Overratted player in the cricket history~~ 😠 😠
 >creditStealer
